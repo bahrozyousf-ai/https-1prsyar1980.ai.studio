@@ -1,0 +1,6 @@
+{
+  "name": "Kurdish Exam Paper Generator",
+  "description": "بەرنامەی پێشکەوتووی دروستکردن، دیزاین و چاپکردنی پەڕەی پرسیارەکانی تاقیکردنەوە بە ستانداردی وەزارەتی پەروەردەی هەرێمی کوردستان",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
